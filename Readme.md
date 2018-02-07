@@ -1,1 +1,3 @@
-# Formant Industries
+# VowelCat
+
+Biofeedback for vowel pronunciation.
